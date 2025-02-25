@@ -30,7 +30,7 @@ To revolutionize financial decision-making for entrepreneurs and small businesse
 ![WhatsApp Image 2025-02-25 at 23 24 56_4bc01755](https://github.com/user-attachments/assets/0957c585-a8f5-44da-91ef-52a6a4a7200a)
 
 
-## Checkout our website --> https://verdant-zabaione-1bd9d0.netlify.app/
+#### Checkout our website --> https://verdant-zabaione-1bd9d0.netlify.app/
 ## Installation & Setup  
 1. *Clone the repository*  
    ```bash
