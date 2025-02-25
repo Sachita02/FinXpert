@@ -26,8 +26,12 @@ To revolutionize financial decision-making for entrepreneurs and small businesse
 - *Authentication:* Firebase/Auth0  
 - *Setup & Execution:* PowerShell  
 
+
+![WhatsApp Image 2025-02-25 at 23 24 56_4bc01755](https://github.com/user-attachments/assets/0957c585-a8f5-44da-91ef-52a6a4a7200a)
+
+
 ## Installation & Setup  
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/yourusername/ai-financial-assistant.git
-   cd ai-financial-assistant
+   git clone https://github.com/yourusername/FinXpert.git
+   cd FinXpert
