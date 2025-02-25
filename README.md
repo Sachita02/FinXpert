@@ -1,4 +1,4 @@
-# AI-Driven Financial Assistant  
+# AI-Driven Financial Assistant - FinXpert 
 Empowering Small Businesses & Entrepreneurs with Smart Financial Decisions  
 
 ## Overview  
