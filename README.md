@@ -1,38 +1,75 @@
-# AI-Driven Financial Assistant - FinXpert 
-Empowering Small Businesses & Entrepreneurs with Smart Financial Decisions  
-
-## Overview  
-AI-Driven Financial Assistant is an AI-powered chatbot designed to help small businesses and entrepreneurs make smarter financial decisions. By leveraging real-time market data, machine learning, and personalized insights, it simplifies investment strategies and risk management.  
-
-## Key Features  
-- *Personalized Investment Recommendations* – Tailored financial advice based on business size, financial goals, and risk tolerance.  
-- *Real-Time Market Analysis* – Monitors live market data, stock trends, and economic indicators.  
-- *Smart Alerts & Risk Warnings* – Proactive notifications on potential risks and market fluctuations.  
-- *Portfolio Optimization* – AI-driven strategies for diversification and maximizing returns.  
-- *Predictive Insights* – Machine learning algorithms to forecast market trends and profitable investments.  
-- *User-Friendly Chatbot Interface* – Simplifies financial guidance with a conversational AI.  
-- *Automated Tracking & Reports* – Generates real-time portfolio performance reports.  
-- *Multi-Language Support* – Ensures accessibility for diverse users.  
-
-## Objective  
-To revolutionize financial decision-making for entrepreneurs and small businesses, ensuring sustainable growth and long-term success.  
-
-## Tech Stack  
-- *Frontend:* React.js (Next.js), Tailwind CSS  
-- *Backend:* Node.js with Express.js  
-- *Database:* MongoDB  
-- *AI Engine:* Python (Flask/FastAPI) with ML models  
-- *Market Data API:* Yahoo Finance, Alpha Vantage, or Polygon.io  
-- *Authentication:* Firebase/Auth0  
-- *Setup & Execution:* PowerShell  
 
 
-![WhatsApp Image 2025-02-25 at 23 24 56_4bc01755](https://github.com/user-attachments/assets/0957c585-a8f5-44da-91ef-52a6a4a7200a)
+## 🤖 Introduction
+
+Built with the latest Next.js and TypeScript, **Finan Smart** is an advanced AI financial advice tool. It allows users to input their income, expenses, and budgets, and receive personalized financial advice based on their financial data. This project is perfect for those looking to learn how to integrate AI-driven insights and financial management into a Next.js application.
 
 
-Checkout our website --> https://verdant-zabaione-1bd9d0.netlify.app/
-## Installation & Setup  
-1. *Clone the repository*  
-   ```bash
-   git clone https://github.com/yourusername/FinXpert.git
-   cd FinXpert
+## ⚙️ Tech Stack
+
+- Next.js
+- TypeScript
+- OpenAI API
+- Tailwind CSS
+
+## 🔋 Features
+
+- **Income and Expense Input**: Allows users to input their income and expenses.
+- **Budget Management**: Enables users to manage their budgets effectively.
+- **Personalized Financial Advice**: Provides detailed financial advice based on user-specific financial data using OpenAI's GPT-4 model.
+- **Responsive Design**: Ensures a seamless experience across different devices.
+
+## 🤸 Quick Start
+
+Follow these steps to set up the project locally on your machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Git
+- Node.js
+- npm (Node Package Manager)
+
+### Cloning the Repository
+
+```bash
+git clone https://github.com/mendsalbert/ai-finance-tracking.git
+cd ai-finance-tracking
+```
+
+### Installation
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+### Set Up Environment Variables
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+NEXT_PUBLIC_OPENAI_API_KEY=
+NEXT_PUBLIC_DATABASE_URL=
+```
+
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the respective service providers' websites.
+
+### Running the Project
+
+```bash
+npm run dev
+```
+
+![image](https://github.com/user-attachments/assets/6b329416-6264-4fda-9b84-e60632fd3dbd)
+
+
+
